@@ -1,12 +1,12 @@
 import React from 'react';
-import MetroZZZDMXLogo from './MetroZZZDMXLogo/';
+import AreaMetropolitana from './AreaMetropolitana/';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <MetroZZZDMXLogo text={"logo"} />
+        <AreaMetropolitana />
         <a
           className="App-link"
           href="https://reactjs.org"
